@@ -359,7 +359,7 @@ def ser_avail():
        count2 = count2+20
        l4 = Label(root5,text = i)
        l4.place(x = 140,y = count2)
-    l5 = Label(root5,text = 'To avail any of these please contact on our no.:- 8240488126')
+    l5 = Label(root5,text = 'To avail any of these please contact on our no.:- ')
     l5.place(x = 20,y = 240)
     root5.resizable(False,False)
     root5.mainloop()
