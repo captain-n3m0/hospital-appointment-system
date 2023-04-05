@@ -10,7 +10,7 @@ Hospital Appointment System Using SQL and Tkinter
 To deploy this project you need to install Tkinter and MySQL database.
 
 ```bash
-  pip3 install requirements.txt
+  pip3 install -r requirements.txt
 ```
 
 
