@@ -1,5 +1,5 @@
 # Hospital Appointment System
-Hospital Appointment System Using SQL and Tkinter
+Hospital Appointment System Using SQL and Tkinter. This is actually a school project i made.
 ## Authors
 
 - [@captain-n3m0](https://github.com/captain-n3m0)
